@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.secA{
+    display: flex;
+}
+.content{
+    margin-left: 8%;
+    width: 50%;
+    margin-right: 8%;
+    margin-top: 8%;
+}
+.content img{
+    border-radius: 50%;
+    width: 80%;
+    height: auto;
+}
+.content h2{
+    font-weight: 700px;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+span{
+    color: orange;
+}
+.content h4{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.content p{
+    text-align: justify;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.hire-me{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange,red,orange);
+    padding: 8px 20px;
+    border-radius: 5px;
+}
+.secB{
+    margin-left: 8%;
+    margin-top: 40px;
+    margin-right: 8%;
+    display: flex;
+}
+.content-b {
+    width: 50%;
+}
+.content-b img{
+    width: 60%;
+    border-radius: 50%;
+}
+.content-b h1{
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+.content-b h2{
+    font-size: 45px;
+}
+.content-b p{
+    font-size: 20px;
+    text-align: justify;
+}
+.download-resume{
+    color: white;
+    background-image: linear-gradient(orange, red,orange);
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.developer{
+    display: flex;
+    width: 100%;
+}
+.developer-a{
+    margin-bottom: 70px;
+    text-align: justify;
+    width: 50%;
+    margin-left: 8%;
+    margin-right: 8%;
+    box-shadow: 10px 10px 40px;
+    padding: 35px;
+    border-radius: 5px;
+}
+.experience h1{
+    margin-left: 8%;
+    margin-bottom: 20px;
+    font-size: 60px;
+    margin-top: 60px;
+}
+.developer-a h2{
+    font-size: 40px;
+    color:black;
+    margin-bottom: 20px;
+}
+.developer-a h4{
+    font-size: 25px;
+    color: orangered;
+    margin-bottom: 20px;
+}
+.developer-a p{
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+#full-stack{
+    border-left: 5px solid orangered;
+}
+#baby-web{
+    border-left: 5px solid blue;
+}
+footer{
+    padding: 30px;
+    text-align: center;
+}
