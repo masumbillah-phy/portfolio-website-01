@@ -3,6 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Passion One', cursive;
+    font-family: 'Space Mono', monospace;
+}
 .secA{
     display: flex;
 }
